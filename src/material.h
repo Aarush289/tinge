@@ -6,6 +6,7 @@
 #include "util.h"
 #include <cmath>
 #include <ostream>
+#include <memory>
 
 class AbstractMaterial {
   public:
